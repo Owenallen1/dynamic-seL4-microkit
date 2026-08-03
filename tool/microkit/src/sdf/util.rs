@@ -4,6 +4,7 @@
 // SPDX-License-Identifier: BSD-2-Clause
 //
 
+<<<<<<< HEAD
 use std::fmt::Display;
 use std::num::ParseIntError;
 
